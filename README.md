@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on AI-aaS projects, interdisciplinary ergonomic AI applications and also would love to contribute to OS UI development (Let's see how that goes ;-))
 - 📫 Drop me a DM on [Linkedin](https://www.linkedin.com/in/shyam-r-9201/), or Holler me on my email (shyam.9201.08@gmail.com) if you're interested to collaborate on something cool!
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,react,html,css,mysql)](https://skillicons.dev)
+## 👷‍♂️ Skills 
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,react,wordpress,html,css,mysql,linux,jenkins,selenium)](https://skillicons.dev)
 
+
+## 📊 Stats for Nerds 
 <!-- ![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shy982&theme=dark&show_icons=true)
 [![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shy982)](https://github.com/shy982/github-readme-stats) -->
 
