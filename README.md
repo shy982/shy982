@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on AI-aaS projects, interdisciplinary ergonomic AI applications and also would love to contribute to OS UI development (Let's see how that goes ;-))
 - 📫 Drop me a DM on [Linkedin](https://www.linkedin.com/in/shyam-r-9201/), or Holler me on my email (shyam.9201.08@gmail.com) if you're interested to collaborate on something cool!
 
+
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shy982&theme=dark&show_icons=true)
 <!---
 shy982/shy982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
