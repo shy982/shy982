@@ -8,13 +8,13 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,react,wordpress,html,css,mysql,linux,jenkins,selenium)](https://skillicons.dev)
 
 ## 🥇 My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shy982&layout=compact)](https://github.com/shy982/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shy982&layout=compact)](https://github.com/shy982/github-readme-stats)
 
 ## 📊 Stats for Nerds 
-<!-- ![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shy982&theme=dark&show_icons=true)
-[![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shy982)](https://github.com/shy982/github-readme-stats) -->
+<!-- ![Shyam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shy982&theme=dark&show_icons=true)
+[![Shyam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shy982)](https://github.com/shy982/github-readme-stats) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shy982&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shy982&theme=dark&show_icons=true&count_private=true)
 <!---
 shy982/shy982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
