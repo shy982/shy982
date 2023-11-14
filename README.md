@@ -5,7 +5,7 @@
 - 📫 Drop me a DM on [Linkedin](https://www.linkedin.com/in/shyam-r-9201/), or Holler me on my email (shyam.9201.08@gmail.com) if you're interested to collaborate on something cool!
 
 ## 👷‍♂️ Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,react,wordpress,html,css,mysql,linux,jenkins,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,go,tensorflow,pytorch,react,kafka,docker,kubernetes,grafana,gremlin,wordpress,html,css,mysql,linux,jenkins,selenium)](https://skillicons.dev)
 
 ## 🥇 My Top Languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shy982&layout=compact)](https://github.com/shy982/github-readme-stats)
